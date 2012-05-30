@@ -1,0 +1,3 @@
+www.google.com;200.100.2.24
+www.tese.edu;200..201.100.2
+www.yahoo.com;200.100.2.25
